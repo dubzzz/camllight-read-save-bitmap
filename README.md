@@ -5,6 +5,7 @@ Project
 -------
 
 This project is divided into two Caml-Light files:
+
 1. importBMP.ml
 2. exportBMP.ml
 
